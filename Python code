@@ -2,7 +2,7 @@
 import pandas as pd  # Data manipulation
 import matplotlib.pyplot as plt  # Data visualization
 import seaborn as sns  # Data visualization
-defining
+
 from sklearn import metrics  # Model evaluation
 from sklearn.neighbors import KNeighborsClassifier  # KNN Model
 from sklearn.linear_model import LogisticRegression  # Logistic Regression Model
